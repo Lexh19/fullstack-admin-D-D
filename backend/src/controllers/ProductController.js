@@ -1,4 +1,4 @@
-import Product from "../models/ProductModel.js";
+import Product from "../models/ProductModel";
 import path from "path";
 import fs from "fs";
 
