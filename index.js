@@ -1,7 +1,7 @@
 import express from "express";
 import FileUpload from "express-fileupload";
 import cors from "cors";
-import ProductRoute from "./routes/ProductRoute.js";
+import ProductRoute from "./src/routes/ProductRoute.js";
 const port = process.env.PORT || 3000;
 
 const app = express();
